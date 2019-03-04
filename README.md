@@ -1,4 +1,4 @@
-# Java7ConcurrencyCookbook
+# Java 7 Concurrency Cookbook
 
 ## JAVA 7 Concurrency cookbook Chapter 1
 
